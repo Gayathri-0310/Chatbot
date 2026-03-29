@@ -1,0 +1,9 @@
+django
+django-cors-headers
+djangorestframework
+drf-spectacular
+PyJWT
+mongoengine
+djongo
+django-filter
+django_extensions
